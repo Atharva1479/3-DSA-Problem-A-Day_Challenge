@@ -14,6 +14,6 @@ Feel free to explore the repository, review the problem solutions, and provide f
 
 ## Connect with Me
 
-Let's code together! Connect with me on [Twitter]([https://twitter.com/your-twitter-handle](https://twitter.com/its_atharva18)) and [LinkedIn]([https://www.linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/atharva-jamdar/)) to discuss the challenges, share your progress, and engage with the coding community.
+Let's code together! Connect with me on Twitter: https://twitter.com/its_atharva18 and [LinkedIn]([https://www.linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/atharva-jamdar/)) to discuss the challenges, share your progress, and engage with the coding community.
 
 Happy coding! 🚀
