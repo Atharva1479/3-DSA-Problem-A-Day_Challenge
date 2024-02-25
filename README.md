@@ -14,6 +14,11 @@ Feel free to explore the repository, review the problem solutions, and provide f
 
 ## Connect with Me
 
-Let's code together! Connect with me on Twitter: https://twitter.com/its_atharva18 and [LinkedIn]([https://www.linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/atharva-jamdar/)) to discuss the challenges, share your progress, and engage with the coding community.
+Let's embark on this coding journey together! 🚀 Connect with me on:
 
-Happy coding! 🚀
+[![Twitter](https://img.shields.io/twitter/follow/its_atharva18?style=social)](https://twitter.com/its_atharva18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/atharva-jamdar)
+
+Feel free to reach out on Twitter for lively discussions, coding challenges, and updates on our coding progress. Connect on LinkedIn to explore professional opportunities, share insights, and be part of the broader coding community.
+
+Looking forward to coding, learning, and growing together! Happy coding! 💻
+
